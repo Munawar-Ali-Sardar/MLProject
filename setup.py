@@ -13,8 +13,6 @@ def get_requirements(path:str)->List[str]:
         
         return requierments
 
-
-
 setup(
     name = "MLProject", 
     version="0.0.1",
