@@ -44,3 +44,5 @@ class DataIngestion:
         except Exception as e:
             logging.info("Error occured in data_ingestion ")
             raise CustomException(e,sys)
+
+
